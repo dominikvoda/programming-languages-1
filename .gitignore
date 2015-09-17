@@ -1,8 +1,9 @@
 /.git
-/factorization
-/fuciman_median
+/.idea
+/out
 /ronyo
 */nbproject
 */build
 */manifest.mf
 */build.xml
+*.iml
