@@ -1,1 +1,6 @@
-# programming-languages-1
+Programovací jazyky 1
+======
+
+Lukáš Tomaszek 9:00
+------
+
